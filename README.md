@@ -7,7 +7,7 @@
 This project allows users to upload an audio file, transcribe the audio using OpenAI's Whisper model, and get AI assistance based on the transcription. Additionally, the AI response can be converted to speech using Azure's Text-to-Speech service.
 
 # Access the Model
-[Voice2Voive]([URL](https://huggingface.co/spaces/yash001010/Voice2Voice))
+[Voice2Voive](https://huggingface.co/spaces/yash001010/Voice2Voice))
 
 ## Features
 
